@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Ammar Jeelani 👋
 
-<!--
-**SyedAmmarJeelani/SyedAmmarJeelani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student at University of Central Punjab (UCP)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently pursuing my **BS in Computer Science**.
+- 🌱 Strengthening my skills in **C++**, programming logic, and software development fundamentals.
+- 💻 Passionate about software engineering, system performance, and hardware optimization.
+- ⚡ **Interests:** Hardware tech, mobile performance tuning, and gaming.
+
+---
+
+### 🛠️ Languages & Tools
+- **Languages:** C++
+- **IDEs & Tools:** Visual Studio, Visual Studio Code, Git, GitHub
+- **Platform:** Windows 11
+
+---
+
+### 📌 Current Goals
+- Mastering Data Structures & Object-Oriented Programming (OOP) in C++.
+- Building clean, efficient terminal and desktop applications.
+- Collaborating on open-source projects.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url)
+- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+
